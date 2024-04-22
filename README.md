@@ -2,7 +2,7 @@
 
 - Primeiro Projeto em Python através da plataforma Alura :
 
-   * Foi realizado com algumas bibliotecas  do python.
+   * Foi realizado com algumas bibliotecas do python como a "os".
     
    * Começei desbravando o uso da função print(), entendendo suas múltiplas facetas e como ela pode dar vida às nossas mensagens.
      
